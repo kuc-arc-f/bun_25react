@@ -10,21 +10,3 @@ export default defineConfig({
     },
   },
 });
-/*
-  minify: true,
-  target: 'web',
-  format: 'esm',
-  outDir: 'dist',
-  outFile: 'bundle.js',
-  output: {
-    target: 'web',
-    format: 'esm',
-  },
-  distPath: {
-    root: 'dist',
-  },
-  filename: {
-    js: `[name].js`,
-    css: `[name].css`,
-  },
-*/
